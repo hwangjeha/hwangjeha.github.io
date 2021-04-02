@@ -2,10 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Lotte.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019.01 - 2019.05
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Unity3D, Android Plugin
+description: 비콘 수신 기능, 모션 시뮬레이터 흔들림으로 인한 정면 보정 기능이 들어간 VR Player
+name: 롯데월드 DMT VR Player
 ---
