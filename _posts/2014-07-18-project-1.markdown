@@ -8,4 +8,5 @@ project-date: 2017.07 - 2019.12
 client: INDIGO Ent.
 category: Unity3D, Android Plugin
 description: 텍스쳐 포멧 중 하나인 ASTC 포멧을 활용한 VR 영상 플레이어.
+name: ASTC VR Player & Server
 ---
