@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: InteractiveGame.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019.07 - 2019.10
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Unity3D
+description: 경주 VR 스튜디오 크로마키 시스템, 루미나워크 북 게임
+name: 경주 엑스포[크로마키 시스템, 루미나워크 북 게임]
 ---
