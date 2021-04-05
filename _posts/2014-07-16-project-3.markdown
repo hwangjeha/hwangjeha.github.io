@@ -4,7 +4,6 @@ modal-id: 3
 date: 2014-07-16
 img: InteractiveGame.png
 img1: chromakey.png
-img2: InteractiveGame.png
 alt: image-alt
 project-date: 2019.07 - 2019.10
 client: Start Bootstrap
