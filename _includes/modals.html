@@ -15,6 +15,11 @@
                             <h2>{{ post.name }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            
+                            {% if post.img1 %}
+                                <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
+
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
