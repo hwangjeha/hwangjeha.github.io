@@ -2,10 +2,13 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: gochangAR.png
+img1: painter.png
+img2: finder.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2019.07 - 2020.01
+client: Unity3D
+category: Unity3D
+description: 고창 고인돌 박물관 미니게임
+name: 고창 고인돌 박물관[고창 AR, 색칠놀이, 보물찾기]
 ---
